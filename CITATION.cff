@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "The Sintercite Hypothesis"
+message: "If you use the Sintercite Hypothesis in academic work, please cite this repository."
+type: "dataset"
+authors:
+  - family-names: "YourLastName"
+    given-names: "YourFirstName"
+    affiliation: ""
+identifiers:
+  - type: doi
+    value: "10.0000/placeholder.doi"
+repository-code: "https://github.com/your-username/sintercite"
+version: "1.0.0"
+date-released: "2025-01-01"
+keywords:
+  - Sintercite
+  - machine abiogenesis
+  - mineral protocells
+  - thermomechanical replication
+  - speculative astrobiology
