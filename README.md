@@ -98,3 +98,5 @@ This project is intended as an open, evolving exploration of a novel scientific 
 This repository is the first structured attempt to articulate the **Sintercite Hypothesis**.  
 It is speculative but grounded in real physics, materials science, and cosmic abundance data.  
 Treat it as a conceptual scaffold — one that may evolve the same way Sintercites do.
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
